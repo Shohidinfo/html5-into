@@ -1,0 +1,53 @@
+.hero-container img{
+    width:300px;
+    height: 300px;
+    border-radius: 15px;
+}
+.hero-container{
+    /* display: flex;  */
+    background-color: lightgreen;
+    position: relative;
+    align-items: center; */
+    width: 300px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center; */
+    font-family: Arial, sans-serif;
+    background-color: lightgreen;
+  
+    /* margin: 25px; */ */
+    border-radius: 20px;
+    /* gap:10px; */
+   
+}
+.hero-container button{
+    background-color: rgb(232, 5, 248);
+    border-radius: 10px;
+    border: 0.5px solid;
+    padding: 10px;
+    margin: 10px;
+    font-size: 1em;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgba(255, 255, 255, 0.94);
+    cursor: pointer;
+
+
+}
+
+body{
+    /* background-color: wheat;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    
+}
+/* body p{
+    size: 1em;
+    color: #011578;
+    font-weight: bold;
+    font-family: sans-serif; */
+}
+
+/* .header{
+    background-color: aliceblue;
+} */

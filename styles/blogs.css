@@ -1,0 +1,19 @@
+nav li {
+    list-style: none;
+    display: inline;
+    margin: 15px;
+    background-color: aqua;
+   
+
+}
+nav li:hover{
+    background-color: rgb(4, 181, 66);
+
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: aqua;
+    background-size: 500px;
+
+}

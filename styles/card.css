@@ -1,0 +1,41 @@
+body{
+    max-width: 1170px;
+    background-color: burlywood;
+    margin: 0 auto;
+}
+.card-containe:hover{
+    background-color: rgb(254, 246, 15);
+}
+.card-containe{
+    width: 300px;
+    border: 2px solid rebeccapurple;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px rgb(51, 30, 30);
+    background-color: aqua;
+    
+
+    
+}
+.card-section img{
+/* display: flex; */
+width: 100%;
+border-radius: 10px;
+
+}
+
+.card-containe button{
+   padding: 15px;
+    color:blueviolet;
+    background-color: rgb(246, 255, 237);
+    border-radius: 15px;
+    font-weight: bold;
+    border: 1px solid;
+    font-size: 1 em;
+    cursor: pointer;
+
+
+}
+.card-containe button:hover{
+    background-color: black;
+}

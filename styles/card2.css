@@ -1,0 +1,89 @@
+body{
+    max-width: 1170px;
+    background-color: rgb(196, 189, 154);
+    margin: 0 auto;
+    
+
+}
+.card-section{
+   text-align:  center;
+}
+.card-section h2{
+    font: bold;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.text img{
+    width: 500px;
+    /* margin: 50px 10px 10px; */
+    padding: 20px;
+
+}
+.text{
+    color: brown;
+   
+
+}
+.text h1,h2{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text p{
+    font-size: 1.5em;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif  ;
+    font: bolder;
+}
+
+.card-container{
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap ;
+
+
+}
+.card{
+    width: 300px;
+    border: 2px solid rebeccapurple;
+    border-radius: 20px;
+    background-color: burlywood;
+    padding: 10px;
+    box-shadow: 10px 10px 10px  black;
+}
+.card{
+    text-align: left;
+}
+.card button{
+    padding: 20px;
+    color:rgb(0, 0, 0);
+    background-color: rgb(255, 0, 0);
+    border-radius: 15px;
+    font-weight: bold;
+    border: 0px solid;
+    font-size: 1.2 em;
+    cursor: pointer;
+}
+.card button:hover{
+    background-color: rgb(2, 2, 2);
+    color: wheat;
+}
+    
+
+.card:hover{
+    background-color: rgb(255, 213, 0) ;
+
+}
+.card img{
+    width: 100%;
+    border-radius: 30px;
+}
+.card h3{
+    font-size: 1.25em;
+    font-weight: 700;
+    font-family:  sans-serif ;
+}
+.card p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
